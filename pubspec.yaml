@@ -1,7 +1,7 @@
 name: smooth_compass_new
-description: "A new Flutter project."
+description: smooth compass with animated rotation and custom widgets support for both(android and ios)
 version: 0.0.1
-homepage:
+homepage: https://github.com/fahadshabeer/smooth_compass_new
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
 
   flutter_sensors: ^1.0.1
-  location: 5.0.0
+  location: ^5.0.0
   vector_math: ^2.1.0
 
 dev_dependencies:
